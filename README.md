@@ -20,7 +20,7 @@ A **Spring 2027 co-op (January–July)** in **software engineering**, with ML/AI
 
 ## 🏏 Featured project
 
-### [SightScreen](SIGHTSCREEN_REPO_LINK): live cricket win probability
+### [SightScreen](https://github.com/Aarav-Patel06/SightScreen): live cricket win probability
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square)](https://sight-screen-rose.vercel.app)
 [![Source](https://img.shields.io/badge/Source_Code-24292F?style=flat-square)](https://github.com/Aarav-Patel06/SightScreen)
