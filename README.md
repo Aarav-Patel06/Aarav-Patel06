@@ -10,7 +10,7 @@ I'm a Computer Science and Business student at Northeastern University, looking 
 
 ## Featured project
 
-### [SightScreen](SIGHTSCREEN_REPO_LINK): live cricket win probability · [Live demo](SIGHTSCREEN_LIVE_LINK)
+### [SightScreen](https://github.com/Aarav-Patel06/SightScreen): live cricket win probability · [Live demo](sight-screen-rose.vercel.app)
 
 A full-stack platform that predicts which team will win, updated after every delivery of a live match.
 
