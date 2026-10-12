@@ -17,6 +17,7 @@ A **Spring 2027 co-op (January–July)** in **software engineering**, with ML/AI
 ## 🔭 I'm currently working on
 
 - Extending SightScreen to full-game live predictions, so win probability updates from the first ball of the first innings through the last ball of the chase (LightGBM, FastAPI, Next.js)
+- 🔍 Seeking a **Spring 2027 (Jan–Jul) Software Engineering co-op**: [resume](Aarav_Patel_Resume.pdf) · [email](mailto:patel.aaravm@northeastern.edu)
 
 ## 🏏 Featured project
 
